@@ -1,0 +1,17 @@
+How to link to Spotify acct
+How to access Discover Weekly playlist
+How to isolate a single song from a playlist
+How to display 30-sec play timer
+How to pull Recommendation Object from API
+- What are seeds?
+- What are tracks?
+How to pull Audio Features from API
+- How to display in circle-y style
+
+
+Version 1.0
+- Single-page web application with no design
+- Takes in a track ID
+- Returns 30-sec play for given track
+- Returns Audio Features for given track
+- Returns Recommendations Object for given track
