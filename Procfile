@@ -1,1 +1,1 @@
-web: gunicorn whythissong:APP 
+web: gunicorn index:server
